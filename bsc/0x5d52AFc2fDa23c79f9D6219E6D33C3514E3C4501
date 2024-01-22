@@ -1,0 +1,11 @@
+{
+  "name": "IGPT",
+  "website": "https://i-gpt.org/",
+  "description": "The Future of Finance, Secured by I-GPT",
+  "explorer": "https://bscscan.com/token/0x5d52afc2fda23c79f9d6219e6d33c3514e3c4501",
+  "type": "BEP20",
+  "symbol": "I",
+  "decimals": 7,
+  "status": "active",
+  "id": "0x5d52afc2fda23c79f9d6219e6d33c3514e3c4501"
+ }
